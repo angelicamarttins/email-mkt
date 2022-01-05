@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive pricing component solution
+# Technical Test - E-mail marketing
 
 This project was a technical test done for the [Adin company](https://www.adin.com.br/). The main objective was to make an email marketing from an e-commerce template.
 
