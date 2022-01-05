@@ -29,6 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/angelicamarttins/email-mkt/)
+- Solution URL: [Live solution](https://angelicamarttins.github.io/email-mkt/)
 
 ## My process
 
